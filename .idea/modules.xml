@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BadgeButtonDemo.iml" filepath="$PROJECT_DIR$/BadgeButtonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/badgebutton/badgebutton.iml" filepath="$PROJECT_DIR$/badgebutton/badgebutton.iml" />
+    </modules>
+  </component>
+</project>

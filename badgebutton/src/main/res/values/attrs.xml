@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BadgeButton">
+        <attr name="badgeSize" format="integer"/>
+        <attr name="badgeColor" format="color"/>
+        <attr name="badgeTextColor" format="color"/>
+        <attr name="badgeShape" format="enum">
+            <enum name="circle" value="0"/>
+            <enum name="roundedRect" value="1"/>
+        </attr>
+        <attr name="badgeShapeRadius" format="integer" />
+        <attr name="badgePadding" format="integer" />
+        <attr name="badgePosition" format="enum">
+            <enum name="leftTop" value="0"/>
+            <enum name="topCenter" value="1"/>
+            <enum name="rightTop" value="2"/>
+            <enum name="leftCenter" value="3"/>
+            <enum name="center" value="4"/>
+            <enum name="rightCenter" value="5"/>
+            <enum name="leftBottom" value="6"/>
+            <enum name="bottomCenter" value="7"/>
+            <enum name="rightBottom" value="8"/>
+        </attr>
+        <attr name="badgeAlign" format="enum">
+            <enum name="inside" value="0"/>
+            <enum name="outside" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
